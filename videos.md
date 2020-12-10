@@ -2,4 +2,7 @@
 
 This pages demonstrates how to include a video into a site
 
-![Test mp4 file](./assets/frame_right_2.mp4)
+###### A test video files
+<video width="320" height="240" controls>
+  <source src="./assets/frame_right_2.mp4" type="video/mp4">
+</video>
